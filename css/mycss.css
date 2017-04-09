@@ -1,0 +1,30 @@
+.ui-btn {
+    font-size: 20px;
+}
+
+.weight {
+	width: 45% !important;
+}
+
+.reps {
+	width: 45% !important;
+	margin-left: 5%;
+}
+
+.weight_kg {
+    width: 4.5% !important;
+    float: left;
+    padding-top: 45px;
+    padding-left: 0.5%;
+
+}
+
+.record_marjin {
+	margin-top: 20px !important;
+	margin-bottom: 20px;
+	width: 100%;
+}
+
+.note_css {
+	margin-top: -25px !important;
+}
