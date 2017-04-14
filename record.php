@@ -1,3 +1,5 @@
+<!-- test2 -->
+
 <?php
 	require_once './include/conf/const.php';
 	require_once './include/model/model.php';
