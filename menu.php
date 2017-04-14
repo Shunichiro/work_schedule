@@ -1,3 +1,6 @@
+<!-- test -->
+
+
 <?php
 	require_once './include/conf/const.php';
 	require_once './include/model/model.php';
@@ -33,10 +36,9 @@
 	// }
 
 
-//追加＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜
+//追加＜＜＜＜＜＜
 
 // ????get_db_connect();とclose_db_connect($link);は何度も上下で使うのか？？？？？？？？？？？？？？？？？
-
 
 
 
